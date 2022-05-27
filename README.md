@@ -1,4 +1,6 @@
 # Code for SSPF Clustering
+X. Cai, et. al., "SSPF: a Simple and Scalable Parameter Free Clustering Method", ICDM workshop 2021
+
 ## List of Files:
 * Readme.md: this readme file.
 * requirements.txt: the requirements (use pip install) to run SSPF.
